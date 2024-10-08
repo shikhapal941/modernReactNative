@@ -1,0 +1,14 @@
+1) create project : npx create-expo-app --template blank RNCourse
+2) run project : cd RNCourse(project name)
+- npm run android
+- npm run ios 
+- npm run web
+-npm start
+3)node js
+4)xcode = mac , android studio = linux,windows
+5)code repository = https://github.com/academind/react-native-practical-guide-code
+6) styles = https://reactnative.dev/docs/style , https://reactnative.dev/docs/colors , https://reactnative.dev/docs/view , https://reactnative.dev/docs/view#style): https://reactnative.dev/docs/view-style-props
+7) CTRL + M (in app) = to open debug window 
+8) npm install -g react-devtools (react dev tools)
+9) react-devtools (to run react-devtools)
+10) react native docs link : https://reactnative.dev/
